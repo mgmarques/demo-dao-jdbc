@@ -1,2 +1,2 @@
-# demo-dao-jdbc
-Java training Data access object design pattern apply to jdbc.
+# Demo DAO with JDBC
+Java training! Data Access Object design pattern apply to a JDBC connection to a MySQL.
